@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moysee5152
 - 👀 I’m interested in ...software engineering 
-- 🌱 I’m currently learning ...software engineering with alx africa
-- 💞️ I’m looking to collaborate on some software engineers 
+- 🌱 I’m currently learning ...software engineering in coursera
+- 💞️ I’m looking to collaborate with some software engineers 
 - 📫 How to reach me ...08165411351 or twitter:@Abdulla30549467
 
 <!---
